@@ -1,4 +1,4 @@
-<img align='left' src='https://www.ffbegif.com/King%20Edgar%20of%20Figaro/206001905%20Win.gif' width='20%'>  
+<img align='left' src='https://www.ffbegif.com/Zack/207001107%20Dance.gif' width='20%'>  
 <img align='right' src='https://www.ffbegif.com/King%20Edgar%20of%20Figaro%20(NV)/206001917%20Limit.gif' width='20%'>  
 
 # Biography
