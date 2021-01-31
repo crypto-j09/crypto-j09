@@ -6,4 +6,4 @@ Studying JAVA, C++ and MySQL
 
 ⛏️ Working at new things! 
   
-![](https://komarev.com/ghpvc/?username=danielex1999&color=lightblue)
+![](https://komarev.com/ghpvc/?username=danielex1999&color=blue)
