@@ -2,7 +2,7 @@
 <img align='right' src='https://www.ffbegif.com/King%20Edgar%20of%20Figaro/206001907%20Win%20Before.gif' width='20%'>  
 
 # Biography 
-Studying  [JAVA], [C++] and [MySQL]
+Studying JAVA, C++ and MySQL
 
 ⛏️ Working at new things! 
   
