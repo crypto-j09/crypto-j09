@@ -5,6 +5,6 @@
 Studying JAVA, C++ and HTML / CSS.
 
 ⛏️ Working at new things! <br><br>
-
+![](https://komarev.com/ghpvc/?username=danielex1999&color=blue)
 
 
