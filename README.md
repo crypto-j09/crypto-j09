@@ -5,6 +5,6 @@
 Studying JAVA, C++ and HTML / CSS.
 
 ⛏️ Working at new things! 
-![](https://www.codewars.com/users/danielex1999/badges/small)<br>
+![](https://www.codewars.com/users/danielex1999/badges/micro)<br>
 ![](https://komarev.com/ghpvc/?username=danielex1999&color=blue)
 
