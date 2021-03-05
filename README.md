@@ -4,7 +4,7 @@
 # Biography 
 Studying JAVA, C++ and HTML / CSS.
 
-⛏️ Working at new things! <br>
+⛏️ Working at new things! <br><br>
 ![](https://www.codewars.com/users/danielex1999/badges/micro)<br>
 ![](https://komarev.com/ghpvc/?username=danielex1999&color=blue)
 
