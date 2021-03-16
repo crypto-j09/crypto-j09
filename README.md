@@ -7,6 +7,6 @@ Studying JAVA, C++ and HTML / CSS.
 ⛏️ Working at new things! <br><br>
 ![](https://komarev.com/ghpvc/?username=danielex1999&color=blue)
 ![](https://img.shields.io/github/followers/danielex1999?style=social)
-![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdanielex1999)
+![](https://img.shields.io/twitter/follow/danielex1999?style=social)
 
 
