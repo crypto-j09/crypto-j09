@@ -40,10 +40,10 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 
 <details>
   <summary>:zap: GitHub Estadísticas</summary><br>
-  <a href="">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielex1999&show_icons=true&locale=es&bg_color=0d1117&title_color=1f6feb&text_color=1f6feb&icon_color=39d353&hide_border=true" />
-</a>
-    <div class="offset-md-4">
-    <a><img height="280" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielex1999&langs_count=8&theme=tokyonight" alt="Stats"></a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=danielex1999&show_icons=true&locale=es&bg_color=0d1117&title_color=1f6feb&text_color=1f6feb&icon_color=39d353&hide_border=true"/>
+  <br>
+  <div class="offset-md-4">
+    <img height="280" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielex1999&langs_count=8&theme=tokyonight" alt="Stats">
   </div>
 </details>
