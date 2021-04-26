@@ -1,7 +1,15 @@
 ## About me
-<div class="offset-md-4" style="display: flex; align-items: center;">
-<b>Hola soy Juan Daniel Cavero - danielex1999</b> <img src="https://www.ffbegif.com/Cobalt%20Blade%20Noctis%20(NV)/215002907%20Win.gif" width="150px"/>
-</div>
+
+
+### `Hola` Soy Juan Daniel Cavero
+
+<img align="right" width="150" height="100" src="https://www.ffbegif.com/Cobalt%20Blade%20Noctis%20(NV)/215002907%20Win.gif">
+
+Mi usuario es @danielex1999:
+```
+Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
+```
+---
 <img align='left' src='https://www.ffbegif.com/Zack/207001107%20Dance.gif' width='20%'>  
 <img align='right' src='https://www.ffbegif.com/King%20Edgar%20of%20Figaro/206001907%20Limit.gif' width='20%'>  
 
