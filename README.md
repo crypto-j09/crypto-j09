@@ -9,6 +9,6 @@ Studying JAVA, C++ and HTML / CSS.
 ![](https://img.shields.io/github/followers/danielex1999?style=social) ![](https://img.shields.io/twitter/follow/danielex1999?style=social)
 
 ## Estadisticas
-  <div class="offset-md-4" align="center" style="margin:10px;">
+  <div class="offset-md-4" style="margin:10px;">
     <a><img height="350" width="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielex1999&langs_count=8&theme=tokyonight" alt="Stats 2"</a>
   </div>
