@@ -35,8 +35,8 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 # Contacto
 
 ### :computer: Estas son mis redes y maneras de contactarme
-<code><a href="https://twitter.com/danielex1999" target="_blank"><img src="https://icons-for-free.com/iconfiles/png/512/logo+twitter+twitter+logo+icon-1320167831451644641.png" width="26px" alt="twitter"></a></code>
-<code><a href="https://www.linkedin.com/in/juancavero/" target="_blank"><img src="https://www.shareicon.net/data/512x512/2017/06/30/888065_logo_512x512.png" width="26px" alt="linkedin"></a></code>
+<code><a href="https://twitter.com/danielex1999" target="_blank"><img src="https://icons-for-free.com/iconfiles/png/512/logo+twitter+twitter+logo+icon-1320167831451644641.png" width="32px" alt="twitter"></a></code>
+<code><a href="https://www.linkedin.com/in/juancavero/" target="_blank"><img src="https://www.shareicon.net/data/512x512/2017/06/30/888065_logo_512x512.png" width="32px" alt="linkedin"></a></code>
 
 <details>
   <summary>:zap: GitHub Estadísticas</summary><br>
