@@ -40,7 +40,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 
 <details>
   <summary>:zap: GitHub Estadísticas</summary><br>
-  <a href="https://github.com/danielex1999/github-readme-stats">
+  <a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=danielex1999&show_icons=true&locale=es&bg_color=0d1117&title_color=1f6feb&text_color=1f6feb&icon_color=39d353&hide_border=true" />
 </a>
     <div class="offset-md-4">
