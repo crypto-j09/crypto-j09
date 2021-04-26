@@ -1,3 +1,5 @@
+## Hola soy Juan Daniel Cavero - danielex1999 <img src="https://www.ffbegif.com/Cobalt%20Blade%20Noctis%20(NV)/215002907%20Win.gif" width="100px" alt="Goku"/>
+
 <img align='left' src='https://www.ffbegif.com/Zack/207001107%20Dance.gif' width='20%'>  
 <img align='right' src='https://www.ffbegif.com/King%20Edgar%20of%20Figaro/206001907%20Limit.gif' width='20%'>  
 
