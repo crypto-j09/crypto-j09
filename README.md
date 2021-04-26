@@ -10,6 +10,6 @@ Studying JAVA, C++ and HTML / CSS.
 
 ## Estadisticas
   <div class="offset-md-4" align="center" style="margin:10px;">
-    <img height="350" width="500" src="https://github-readme-stats.vercel.app/api?username=zLowy&show_icons=true&theme=danielex1999" alt="Stats"> <br>
-    <a><img height="350" width="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLowy&langs_count=8&theme=danielex1999" alt="Stats 2"</a>
+    <img height="350" width="500" src="https://github-readme-stats.vercel.app/api?username=danielex1999&show_icons=true&theme=tokyonight" alt="Stats"> 
+    <a><img height="350" width="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielex1999&langs_count=8&theme=tokyonight" alt="Stats 2"</a>
   </div>
