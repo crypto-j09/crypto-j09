@@ -21,9 +21,9 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="" target="_blank"><img src="https://image.flaticon.com/icons/png/128/873/873107.png" width="26px" alt="azure"></a></code>
 
 ### :file_folder: Tecnologías aprendidas 
-<code><a href="" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="26px" alt="java"></a></code>
+<code><a href="" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="30px" alt="java"></a></code>
 <code><a href="" target="_blank"><img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="26px" alt="html"></a></code>
-<code><a href="" target="_blank"><img src="https://midu.dev/images/tags/css.png" width="26px" alt="css"></a></code>
+<code><a href="" target="_blank"><img src="https://midu.dev/images/tags/css.png" width="30px" alt="css"></a></code>
 <code><a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="26px" alt="vscode"></a></code>
 <code><a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="26px" alt="netbeans"></a></code>
 <code><a href="" target="_blank"><img src="https://findicons.com/files/icons/977/rrze/720/database_mysql.png" width="26px" alt="vscode"></a></code>
