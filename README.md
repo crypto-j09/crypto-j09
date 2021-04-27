@@ -16,7 +16,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 
 ### :books: Actualmente estoy aprendiendo
 
-<code><a href="" target="_blank"><img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" width="26px" alt="js"></a></code>
+<code><a href="" target="_blank"><img src="https://user-images.githubusercontent.com/69739890/116199489-c874cf80-a6fc-11eb-8930-e99b5442212b.jpg" width="26px" alt="js"></a></code>
 <code><a href="" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="26px" alt="pyton"></a></code>
 <code><a href="" target="_blank"><img src="https://image.flaticon.com/icons/png/128/873/873107.png" width="26px" alt="azure"></a></code>
 
