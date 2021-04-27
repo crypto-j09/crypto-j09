@@ -47,3 +47,5 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
     <img height="280" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielex1999&langs_count=8&theme=tokyonight" alt="Stats">
   </div>
 </details>
+
+![232](https://user-images.githubusercontent.com/69739890/116199213-7b90f900-a6fc-11eb-80a0-a58725f73ac8.jpg)
