@@ -48,4 +48,4 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
   </div>
 </details>
 
-![232](https://user-images.githubusercontent.com/69739890/116199213-7b90f900-a6fc-11eb-80a0-a58725f73ac8.jpg)
+
