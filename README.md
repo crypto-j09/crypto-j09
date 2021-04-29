@@ -19,6 +19,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="" target="_blank"><img src="https://user-images.githubusercontent.com/69739890/116199489-c874cf80-a6fc-11eb-8930-e99b5442212b.jpg" width="26px" alt="js"></a></code>
 <code><a href="" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="26px" alt="pyton"></a></code>
 <code><a href="" target="_blank"><img src="https://image.flaticon.com/icons/png/128/873/873107.png" width="26px" alt="azure"></a></code>
+<code><a href="" target="_blank"><img src="https://c0.klipartz.com/pngpicture/329/699/gratis-png-selenium-desarrollo-integrado-entorno-de-pruebas-software-de-automatizacion-de-pruebas-codigo-fuente-pruebas-de-automatizacion.png" width="26px" alt="selenium"></a></code>
 
 ### :file_folder: Tecnologías aprendidas 
 <code><a href="" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="35px" alt="java"></a></code>
