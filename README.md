@@ -1,4 +1,4 @@
-## About me
+## Acerca de Mí
 
 
 ### `Hola` Soy Juan Daniel Cavero Tovar
