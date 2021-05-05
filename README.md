@@ -30,6 +30,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="" target="_blank"><img src="https://findicons.com/files/icons/977/rrze/720/database_mysql.png" width="26px" alt="vscode"></a></code>
 <code><a href="" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="26px" alt="git"></a></code>
 <code><a href="" target="_blank"><img src="https://www.milinux.es/wp-content/uploads/2018/07/terminal-logo-512x512.png" width="26px" alt="terminal"></a></code>
+<code><a href="" target="_blank"><img src="https://img.icons8.com/color/50/000000/arduino.png" width="30px" alt="arduino"/></a></code>
 
 ---
 ---
