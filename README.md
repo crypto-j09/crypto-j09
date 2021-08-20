@@ -46,14 +46,16 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
   <a href="https://api.whatsapp.com/send?phone=51989296287&amp;text=Hello%2C%20I%20would%20like%20to%20talk%20about%20a%20new%20project." rel="nofollow"><img src="https://camo.githubusercontent.com/ea4db2b6cd2146fcbc3406b7b9e5971e23d03766aa7a3b3256dedda8918970f0/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f77686174736170702e706e67" alt="Instagram" data-canonical-src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" style="max-width:100%;"></a>
 </p>
 
-<details>
-  <summary>:zap: GitHub Estadísticas</summary><br>
+# :zap: GitHub Estadísticas
 
-  <img src="https://github-readme-stats.vercel.app/api?username=danielex1999&show_icons=true&locale=es&bg_color=0d1117&title_color=1f6feb&text_color=1f6feb&icon_color=39d353&hide_border=true"/>
-  <br>
-  <div class="offset-md-4">
-    <img height="280" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielex1999&langs_count=8&theme=tokyonight" alt="Stats">
-  </div>
-</details>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=danielex1999&margin-w=10&row=1&theme=gruvbox&no-frame=true"/>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=danielex1999&count_private=true&include_all_commits=true&theme=gotham"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielex1999&layout=compact&theme=gotham" />
+</div>
+
 
 
