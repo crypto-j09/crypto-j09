@@ -55,12 +55,6 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=danielex1999&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
 </p>
 
----
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=danielex1999&count_private=true&include_all_commits=true&theme=gotham"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielex1999&layout=compact&theme=gotham" />
-</div>
 
 
 
