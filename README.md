@@ -19,8 +19,8 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 ### :books: Actualmente estoy aprendiendo
 
 <code><a href="" target="_blank"><img src="https://user-images.githubusercontent.com/69739890/116199489-c874cf80-a6fc-11eb-8930-e99b5442212b.jpg" width="26px" alt="js"></a></code>
-<code><a href="" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="26px" alt="pyton"></a></code>
-<code><a href="" target="_blank"><img src="/img/python.png" height="24px" style="margin-bottom: 5%;" width="30px" alt="azure"></a></code>
+<code><a href="" target="_blank"><img src="/img/python.png" width="26px" alt="pyton"></a></code>
+<code><a href="" target="_blank"><img src="" height="24px" style="margin-bottom: 5%;" width="30px" alt="azure"></a></code>
 <code><a href="" target="_blank"><img src="/img/selenium.png" width="26px" alt="selenium"></a></code>
 <code><a href="" target="_blank"><img src="https://pivotal.gallerycdn.vsassets.io/extensions/pivotal/vscode-boot-dev-pack/0.1.0/1629148309593/Microsoft.VisualStudio.Services.Icons.Default" width="26px" alt="springboot"></a></code>
 <code><a href="" target="_blank"><img src="https://avatars.githubusercontent.com/u/131436?s=280&v=4" width="25px" alt="Liferay"></a></code>
