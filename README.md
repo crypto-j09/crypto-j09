@@ -18,7 +18,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 
 ### :books: Actualmente estoy aprendiendo
 
-<code><a href="" target="_blank"><img src="https://user-images.githubusercontent.com/69739890/116199489-c874cf80-a6fc-11eb-8930-e99b5442212b.jpg" width="26px" alt="js"></a></code>
+<code><a href="" target="_blank"><img src="/img/javascript.png" width="26px" alt="js"></a></code>
 <code><a href="" target="_blank"><img src="/img/python.png" width="26px" alt="pyton"></a></code>
 <code><a href="" target="_blank"><img src="" height="24px" style="margin-bottom: 5%;" width="30px" alt="azure"></a></code>
 <code><a href="" target="_blank"><img src="/img/selenium.png" width="26px" alt="selenium"></a></code>
