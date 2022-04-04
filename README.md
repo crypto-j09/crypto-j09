@@ -23,7 +23,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="" target="_blank"><img src="" height="24px" style="margin-bottom: 5%;" width="30px" alt="azure"></a></code>
 <code><a href="" target="_blank"><img src="/img/selenium.png" width="26px" alt="selenium"></a></code>
 <code><a href="" target="_blank"><img src="/img/spring.png" width="26px" alt="springboot"></a></code>
-<code><a href="" target="_blank"><img src="https://avatars.githubusercontent.com/u/131436?s=280&v=4" width="25px" alt="Liferay"></a></code>
+<code><a href="" target="_blank"><img src="/img/liferay.png" width="25px" alt="Liferay"></a></code>
 
 ### :file_folder: Tecnologías aprendidas 
 <code><a href="" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="35px" alt="java"></a></code>
