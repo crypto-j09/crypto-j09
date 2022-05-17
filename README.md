@@ -55,6 +55,6 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=danielex1999&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
 </p>
 
-
+![](https://activity-graph.herokuapp.com/graph?username=danielex1999&theme=react-dark)
 
 
