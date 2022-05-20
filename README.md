@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=danielex1999&color=00a0a0&style=plastic) 
 ![](https://img.shields.io/github/followers/danielex1999?style=social) 
 ![](https://img.shields.io/twitter/follow/danielex1999?style=social)
-<img align="right" width="150" height="100" src="https://www.ffbegif.com/Cobalt%20Blade%20Noctis%20(NV)/215002907%20Win.gif">
+<img align="right" width="150px" height="100px" src="https://www.ffbegif.com/Cobalt%20Blade%20Noctis%20(NV)/215002907%20Win.gif">
 
 My username is @danielex1999:
 ```
