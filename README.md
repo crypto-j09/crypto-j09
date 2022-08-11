@@ -1,6 +1,6 @@
 ## About me
 
-<img align="right" width="150" src="https://www.ffbegif.com/Cobalt%20Blade%20Noctis%20(NV)/215002907%20CG%20Limit%20Before.png"/>
+<img align="right" width="240" src="http://www.ffbegif.com/Cobalt%20Blade%20Noctis%20(NV)/215002907%20Win.png"/>
 
 ### `Hello` I'm Juan Daniel Cavero Tovar.
 ![](https://komarev.com/ghpvc/?username=danielex1999&color=00a0a0&style=plastic) 
