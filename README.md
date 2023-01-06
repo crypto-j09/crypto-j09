@@ -47,7 +47,6 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 ### :computer: These are my networks and ways to contact me
 
 <p align="center">
-	<a href="https://github.com/danielex1999"><img src="img/Contact_me/github.png" alt="GitHub" style="max-width:100%;"></a>
 	<a href="https://www.linkedin.com/in/juancavero/"><img src="img/Contact_me/linkedin.png" alt="LinkedIn" style="max-width:100%;"></a>
 	<a href="https://twitter.com/danielex1999"><img src="img/Contact_me/twitter.png" alt="Twitter" style="max-width:100%;"></a>
 	<a href="mailto:daniel_jul_can@hotmail.com"><img src="img/Contact_me/mail.png" alt="email" style="max-width:100%;"></a>
