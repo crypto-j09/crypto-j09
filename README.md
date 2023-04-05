@@ -24,7 +24,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="" target="_blank"><img src="img/liferay.png" width="25px" alt="Liferay"></a></code>
 
 ### :file_folder: Learned technologies 
-<code><a href="" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="35px" alt="java"></a></code>
+<code><a href="https://github.com/danielex1999/Java-Course/blob/main/README.md" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="35px" alt="java"></a></code>
 <code><a href="" target="_blank"><img src="/img/html.png" width="30px" alt="html"></a></code>
 <code><a href="" target="_blank"><img src="https://midu.dev/images/tags/css.png" width="26px" alt="css"></a></code>
 <code><a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="26px" alt="vscode"></a></code>
