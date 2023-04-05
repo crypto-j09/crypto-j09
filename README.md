@@ -16,7 +16,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 
 ### :books: I'm currently learning
 
-<code><a href="" target="_blank"><img src="img/js.jpg" width="22px" alt="js"></a></code>
+<code><a href="https://github.com/danielex1999/JavaScript-Course" target="_blank"><img src="img/js.jpg" width="22px" alt="js"></a></code>
 <code><a href="" target="_blank"><img src="img/python.png" width="26px" alt="pyton"></a></code>
 <code><a href="" target="_blank"><img src="img/azure.svg" width="30px" alt="azure"></a></code>
 <code><a href="" target="_blank"><img src="img/selenium.png" width="26px" alt="selenium"></a></code>
