@@ -34,7 +34,6 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="" target="_blank"><img src="https://www.milinux.es/wp-content/uploads/2018/07/terminal-logo-512x512.png" width="26px" alt="terminal"></a></code>
 <code><a href="" target="_blank"><img src="https://img.icons8.com/color/50/000000/arduino.png" width="30px" alt="arduino"/></a></code>
 
-
 ---
 
 ## Contact
