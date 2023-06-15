@@ -1,6 +1,6 @@
 ## About me
 
-<img align="right" width="240" src="http://www.ffbegif.com/Cobalt%20Blade%20Noctis%20(NV)/215002907%20Win.png"/>
+<img align="right" width="240" src="img/noctis.gif"/>
 
 ### `Hello` I'm Juan Daniel Cavero Tovar.
 
