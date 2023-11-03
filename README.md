@@ -52,7 +52,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 </p>
 
 ---
-
+ 
 <p align="center">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=danielex1999&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
 </p>
