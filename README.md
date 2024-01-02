@@ -20,12 +20,12 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 
 <code><a href="" target="_blank"><img src="img/currently_learning/python.png"	width="26px" alt="pyton"></a></code>
 <code><a href="" target="_blank"><img src="img/currently_learning/azure.svg"	width="30px" alt="azure"></a></code>
-<code><a href="" target="_blank"><img src="img/currently_learning/selenium.png"	width="26px" alt="selenium"></a></code>
 <code><a href="" target="_blank"><img src="img/currently_learning/spring.png"	width="26px" alt="springboot"></a></code>
 <code><a href="" target="_blank"><img src="img/currently_learning/liferay.png"	width="25px" alt="Liferay"></a></code>
 
 ### :file_folder: Learned technologies
 
+<code><a href="" target="_blank"><img src="img/currently_learning/selenium.png"	width="26px" alt="selenium"></a></code>
 <code><a href="https://github.com/danielex1999/JavaScript-Course" target="_blank"><img src="img/Learned_technologies/js.jpg" width="22px" alt="js"></a></code>
 <code><a href="https://github.com/danielex1999/Java-Course" target="_blank"><img src="img/Learned_technologies/java.png" width="22px" alt="java"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/html.png" width="30px" alt="html"></a></code>
