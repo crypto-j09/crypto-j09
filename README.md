@@ -1,5 +1,5 @@
 ## About me
- 
+
 <img align="right" width="240" src="img/noctis.gif"/>
 
 ### `Hello` I'm Juan Daniel Cavero Tovar.
@@ -22,7 +22,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="" target="_blank"><img src="img/currently_learning/azure.svg"	width="30px" alt="azure"></a></code>
 <code><a href="" target="_blank"><img src="img/currently_learning/spring.png"	width="26px" alt="springboot"></a></code>
 <code><a href="" target="_blank"><img src="img/currently_learning/liferay.png"	width="25px" alt="Liferay"></a></code>
-<code><a href="" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg.png"	width="20px" alt="Liferay"></a></code>
+<code><a href="" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg"	width="20px" alt="Jenkins"></a></code>
 
 ### :file_folder: Learned technologies
 
@@ -53,7 +53,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 </p>
 
 ---
- 
+
 <p align="center">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=danielex1999&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
 </p>
