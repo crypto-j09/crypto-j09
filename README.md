@@ -33,6 +33,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/html.png" width="30px" alt="html"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/css.png" width="26px" alt="css"></a></code>
 <code><a href="https://github.com/danielex1999/danielex1999/blob/main/resources/keyboard-shortcuts-windows.pdf" target="_blank"><img src="img/Learned_technologies/vscode.png" width="26px" alt="vscode"></a></code>
+<code><a href="https://github.com/danielex1999/danielex1999/blob/main/resources/IntelliJIDEA_ReferenceCard.pdf" target="_blank"><img src="img/Learned_technologies/IntelliJ.png" width="26px" alt="intellJ"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/netbeans.png" width="26px" alt="netbeans"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/mysql.png" width="26px" alt="vscode"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/git.png" width="26px" alt="git"></a></code>
