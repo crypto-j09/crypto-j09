@@ -27,7 +27,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 
 ### :file_folder: Learned technologies
 
-<code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/selenium.png"	width="26px" alt="selenium"></a></code>
+<code><a href="https://www.selenium.dev" target="_blank"><img src="img/Learned_technologies/selenium.png"	width="26px" alt="selenium"></a></code>
 <code><a href="https://github.com/danielex1999/JavaScript-Course" target="_blank"><img src="img/Learned_technologies/js.jpg" width="22px" alt="js"></a></code>
 <code><a href="https://github.com/danielex1999/Java-Course" target="_blank"><img src="img/Learned_technologies/java.png" width="22px" alt="java"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/html.png" width="30px" alt="html"></a></code>
