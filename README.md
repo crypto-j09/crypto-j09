@@ -24,6 +24,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/liferay.png"	width="25px" alt="Liferay"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg"	width="20px" alt="Jenkins"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/grafana.png"	width="25px" alt="Grafana"></a></code>
+<code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/postgresql.png"	width="25px" alt="postgresql"></a></code>
 
 ### :file_folder: Learned technologies
 
