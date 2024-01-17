@@ -24,13 +24,13 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/liferay.png"	width="25px" alt="Liferay"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg"	width="20px" alt="Jenkins"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/grafana.png"	width="25px" alt="Grafana"></a></code>
-<code><a href="https://github.com/danielex1999" target="_blank"><img src="img/currently_learning/postgresql.png"	width="25px" alt="postgresql"></a></code>
+<code><a href="https://github.com/danielex1999/danielex1999/blob/main/resources/PostgreSQL-Cheat-Sheet.pdf" target="_blank"><img src="img/currently_learning/postgresql.png"	width="25px" alt="postgresql"></a></code>
 <code><a href="https://angular.io" target="_blank"><img src="img/currently_learning/angular.svg"	width="24px" alt="angular"></a></code>
-
+ 
 ### :file_folder: Learned technologies
 
 <code><a href="https://www.selenium.dev" target="_blank"><img src="img/Learned_technologies/selenium.png"	width="26px" alt="selenium"></a></code>
-<code><a href="https://github.com/danielex1999/JavaScript-Course" target="_blank"><img src="img/Learned_technologies/js.jpg" width="22px" alt="js"></a></code>
+<code><a href="https://github.com/danielex1999/JavaScript-Course" target="_blank"><img src="img/Learned_technologies/js.jpg" width="22px" alt="js"></a></code> 
 <code><a href="https://github.com/danielex1999/Java-Course" target="_blank"><img src="img/Learned_technologies/java.png" width="22px" alt="java"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/html.png" width="30px" alt="html"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/css.png" width="26px" alt="css"></a></code>
@@ -39,7 +39,6 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/mysql.png" width="26px" alt="vscode"></a></code>
 <code><a href="https://github.com/danielex1999/danielex1999/blob/main/resources/github-git-cheat-sheet.pdf" target="_blank"><img src="img/Learned_technologies/git.png" width="26px" alt="git"></a></code>
 <code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/terminal.png" width="26px" alt="terminal"></a></code>
-<code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/arduino.png" width="30px" alt="arduino"/></a></code>
 
 ---
 
