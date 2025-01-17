@@ -27,4 +27,4 @@ I have rich experience in building dapps, staking/farming/lending, NFT marketpla
 As a professional who has thrived in roles such as Project Manager and Lead Developer, I bring to the table a comprehensive blend of technical expertise and leadership acumen.
 Recently focusing on trading bots, telegram mini apps and ai chat bot development.
 
-⭐️ From webmaster09811
+⭐️ From crypto-j09
